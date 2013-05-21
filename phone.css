@@ -1,0 +1,30 @@
+body   { background-color:dddddd; font-family:Verdana; font-size:12; }
+
+p { text-align:center; }
+
+a img  { border-width: 0; }
+
+a { text-decoration:underline; color:black; }
+
+a.hidelink:link    { text-decoration:none; color:darkblue; }
+a.hidelink:visited { text-decoration:none; color:darkblue; }
+a.hidelink:hover   { text-decoration:underline; color:darkblue; }
+
+h1     { font-weight:bold; font-size:18; color:darkblue; text-align:center; }
+h2     { font-weight:bold; font-size:14; }
+h3     { font-size:12; }
+h4     { font-size:10; }
+h5     { display:inline; font-weight:normal; font-size:8; }
+h6     { display:inline; font-weight:normal; font-size:8; color:gray; }
+
+caption   { font-weight:bold; font-size:16; color:darkblue; }
+th        { background-color:powderblue; font-weight:bold; font-size:14; }
+tr.night  { background-color:#E1E1C9; }
+tr.bold   { font-weight:bold; }
+td        { background-color:white; font-size:14; }
+td.center { text-align:center; }
+td.right  { text-align:right; }
+td.hilite { text-align:right; background-color:#FFFFAA; }
+
+span.sort      { font-family:"Wingdings 3"; font-size:10; color:gray; }
+span.hilite    { color:red; }
